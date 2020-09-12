@@ -1,4 +1,4 @@
-Jeevan's collection of simple Bash scripts.
+Jeevan and prudhvi collection of simple Bash scripts.
 
 ## Getting Started
 
