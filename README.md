@@ -1,3 +1,4 @@
+
 Mano's collection of simple Bash scripts.
 
 ## Getting Started
